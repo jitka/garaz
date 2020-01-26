@@ -15,7 +15,7 @@
 ##  Přehled pozemků v okolí garáže
 
 * Severně cesta - vlastník Magistrát
-* Pozemek pod garáží 1083/64 - drobní vlastníci
+* Pozemek pod garáží 1083/64 - 2023m^2 - drobní vlastníci
 * Těsné okolí 1083/2 - 2619m^2 - vlastním 1700/465120
 * Severně "chodník" 1083/92 - Magistrát
 * Severovýchodně 1083/80 - Úřad pro zastupování státu ve věcech majetkových
