@@ -10,6 +10,8 @@
 |číslo jednotky| 519|
 |výměr pro daň| 17m^2 (bez toho rantlu vlevo)|
 
+[Stránky SVJ](https://pisecna610.svjo.cz)
+
 ##  Přehled pozemků v okolí garáže
 
 * Severně cesta - vlastník Magistrát
