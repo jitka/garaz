@@ -1,7 +1,9 @@
 # Informace o mojí garáži
 
-|datovka osobní| 4ipa4m|
-|datovka osvč| vtw5wp|
+| -  | -  |
+|---------------|---------|
+|datovka osobní | 4ipa4m  |
+|datovka osvč | vtw5wp    |
 |katastr| Trója|
 |číslo popisné| 610|
 |číslo jednotky| 519|
