@@ -5,6 +5,7 @@
 |datovka osobní | 4ipa4m  |
 |datovka osvč | vtw5wp    |
 |katastr| Trója|
+|ulice| Písečná |
 |číslo popisné| 610|
 |číslo jednotky| 519|
 |výměr pro daň| 17m^2 (bez toho rantlu vlevo)|
